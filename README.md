@@ -1,5 +1,4 @@
 # 🔢 NumPy Testes
-
 > Experimentos com NumPy para computação numérica em Python.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -9,6 +8,5 @@
 ```bash
 pip install numpy && python main.py
 ```
-
 ---
 <p align="center">Feito com ❤️ por <a href="https://github.com/Supremeduck3">Supremeduck3</a></p>
